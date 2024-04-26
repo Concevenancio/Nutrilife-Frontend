@@ -48,7 +48,7 @@ const ConfirmarCuenta = () => {
         {cuentaConfirmada && (
           <Link
             className="block text-black text-center my-5 hover:text-white bg-green-500 rounded-full shadow-lg focus:outline-none w-1/2 items-center mx-auto py-2 "
-            to="/login"
+            to="/"
           >
             Iniciar Sesión
           </Link>

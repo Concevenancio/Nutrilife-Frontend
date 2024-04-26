@@ -96,7 +96,7 @@ const NuevoPassword = () => {
         {passwordModificado && (
           <Link
             className="block text-gray-500 text-center my-5 hover:text-green-950"
-            to="/login"
+            to="/"
           >
             Iniciar Sesión
           </Link>
